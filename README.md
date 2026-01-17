@@ -20,9 +20,13 @@ trade-offs.
 Key Features
 --------------------------------------------------
 • Exact and approximate charge-variant computation
+
 • Supports proteins with repeated PTMs
+
 • Fast and scalable algorithms
+
 • Fully offline, self-contained GUI
+
 • Visualization and CSV export
 
 --------------------------------------------------
