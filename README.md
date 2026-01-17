@@ -64,23 +64,31 @@ Data Validation
 Execution Model
 --------------------------------------------------
 • Fully offline (no cloud dependency)
+
 • Local computation only
+
 • GUI built using Tkinter
+
 • All assets bundled with the application
 
 --------------------------------------------------
 Performance Summary
 --------------------------------------------------
 Convolution        : Exact       | Slow
+
 FFT Convolution    : Exact       | Fast
+
 Moment Matching    : Approximate | Very Fast
 
 --------------------------------------------------
 Use Cases
 --------------------------------------------------
 • Charge-envelope estimation
+
 • Formulation and stability analysis
+
 • PTM-heavy protein stress testing
+
 • Academic and research demonstrations
 
 
