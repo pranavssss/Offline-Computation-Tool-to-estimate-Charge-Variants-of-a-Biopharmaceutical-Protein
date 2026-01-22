@@ -130,25 +130,6 @@ Offline Execution Model:
 python appfinal.py
 ```
 
---------------------------------------------------
-## Standalone executable
---------------------------------------------------
-• No Python environment required – Users can run the application without installing Python, Conda, or virtual environments.
-
-• Zero runtime dependencies – All required libraries are bundled into a single executable.
-
-• Prevents internet usage – No package downloads, updates, or external calls at runtime.
-
-• Code integrity preserved – Users cannot easily modify source code or inject online libraries.
-
-• Fully offline operation – All computation and data processing occur locally.
-
-• Simplified distribution – Single file (.app / .exe) is easy to share and run.
-
-• Consistent behavior across systems – Eliminates environment and version mismatches.
-
-• Improved user experience – Double-click launch with no setup steps.
-
 
 --------------------------------------------------
 Contributors
