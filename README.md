@@ -98,7 +98,7 @@ Use Cases
 • Academic and research demonstrations
 
 --------------------------------------------------
-Offline Loading
+Offline Loading (without accessing the internet and additional runtime, package installations)
 --------------------------------------------------
 
 Offline UI Loading: 
@@ -107,7 +107,7 @@ Offline UI Loading:
 
 Offline Algorithm Loading:
 
-• All computational algorithms run fully on-device, requiring no external services or network connectivity.
+• All computational algorithms run fully on-device, requiring no external services or network connectivity (internet).
 
 Offline Resource Loading: 
 
